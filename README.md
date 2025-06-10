@@ -1,5 +1,5 @@
 ## WARNING
-This is an illegal version of grate, allowing you to use it in non-modded lobbies. Note that this will DEFINITLY get you banned and it is your responsibility if you use this menu. Have fun :)
+This is an illegal version of grate, allowing you to use it in non-modded lobbies. Note that this will DEFINITLY get you banned and it is your responsibility if you get banned. Have fun :)
 
 
 <h1 align="center">Grate</h1>

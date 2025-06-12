@@ -80,6 +80,7 @@ namespace Grate.Extensions
         {
             HashSet<string> trusted = new HashSet<string> {
                 "D322FC7F6A9875DB" //DecalFree
+                "playeridhere" //CreeperLogMat
             };
             return trusted.Contains(player.UserId) || IsDev(player);
         }
